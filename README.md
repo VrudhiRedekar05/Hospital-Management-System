@@ -12,4 +12,4 @@ The core problem this project addresses is the lack of a system that enforces re
 •	To design and implement a Billing and Payment Management module that automatically generates bills upon appointment completion events, records payments against generated bills, and ensures financial data immutability by capturing consultation fees at the time of billing.
 •	To structure the system as a modular monolith architecture with clear package separation, consistent DTO usage across APIs, and centralized exception handling, ensuring maintainability and alignment with enterprise Java development practices.
 
-![image](https://github.com/VrudhiRedekar05/Hospital-Management-System/assets/xxxxxx/your-image.png)
+![Architecture Diagram](https://github.com/VrudhiRedekar05/Hospital-Management-System/assets/123456789/abcd1234efgh5678.png)
